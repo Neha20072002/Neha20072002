@@ -8,6 +8,6 @@
 - 💬 Ask me about _C/C++_
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/neha-katiyar-361217204/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ~~Total Github newbie~~
+- ⚡ Fun fact: ~~Total Github newbie:expressionless:~~
 ***
 
