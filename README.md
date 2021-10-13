@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am **_Neha Katiyar_** 👋
+***
 
-<!--
-**Neha20072002/Neha20072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on _Frontend Development_
+- 🌱 I’m currently learning _Python_
+- 👯 I’m looking to collaborate on _Web Development_
+- 🤔 I’m looking for help with _Javascript_
+- 💬 Ask me about _C/C++_
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/neha-katiyar-361217204/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: ~~Total Github newbie~~
+***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
